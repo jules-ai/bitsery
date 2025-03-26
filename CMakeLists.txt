@@ -4,7 +4,7 @@ project(bitsery
         VERSION 5.2.4)
 
 #======== build options ===================================
-option(BITSERY_BUILD_EXAMPLES "Build examples" OFF)
+option(BITSERY_BUILD_EXAMPLES "Build examples" ON)
 option(BITSERY_BUILD_TESTS "Build tests" OFF)
 
 #============= setup target ======================
